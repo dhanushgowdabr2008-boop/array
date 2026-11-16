@@ -1,0 +1,7 @@
+Problem statement
+You are given an \(N \times M\) matrix. Your task is to:
+1. Read the matrix elements from the user.
+2. Calculate the sum of each row.
+3. Calculate the sum of each column.
+4. Find the largest element in the matrix.
+5. Find the position (row and column) of the largest element.
